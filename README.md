@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/igorbrigadir"><img src="https://img.shields.io/twitter/follow/igorbrigadir.svg?style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/igorbrigadir/"><img src="https://img.shields.io/badge/LinkedIn-igorbrigadir-blueviolet.svg?style=social" alt="LinkedIn"></a>
+
 <!--
 **igorbrigadir/igorbrigadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
